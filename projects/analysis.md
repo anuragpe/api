@@ -1,5 +1,10 @@
 # Analysis projects using this API
 
+- [R0 Tracker India](https://www.nidhigupta.live/rtcovid)
+    - By: [@Nidhi Gupta](https://www.linkedin.com/in/nidhigupta1154) & [@Anurag Gupta](https://www.linkedin.com/in/anurag-gupta690)
+
+---
+
 - [Data Analysis : India - District & State](https://docs.google.com/spreadsheets/d/1yS8x7IrlWLdtgM6UUPm2YN8lLRmRYJKm-4Wax-8EBuI/edit?usp=sharing)
     - By: [@Ankan_Plotter](https://t.me/Ankan_Plotter)
 
